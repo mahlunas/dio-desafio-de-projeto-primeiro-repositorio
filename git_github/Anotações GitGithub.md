@@ -3,9 +3,9 @@
 ### Principais comandos
 
 	- cd: navegar pelos diretórios
-	- ls: listar diretórios
+	- dir: listar diretórios
 	- mkdir: criar diretório
-	- mv: mover diretórios e arquivos
+	- move: mover diretórios e arquivos
 	- rm: deletar arquivo (com a flag -r remove diretório)
 	- git init: inicia o git
 	- git commit: comita o git
@@ -17,3 +17,10 @@
 Para outros comandos [clique aqui](https://www.devmedia.com.br/comandos-basicos-do-linux-manipulando-diretorios/18118#:~:text=Outro%20comando%20comando%20é%20o,pode%20ver%20na%201%20abaixo.)
 
 [Sintaxe Markdown](https://markdown.net.br/sintaxe-basica/)
+
+
+
+### Links aplicativos
+
+- [Git](https://git-scm.com/downloads)
+- [GitHub](https://github.com)
